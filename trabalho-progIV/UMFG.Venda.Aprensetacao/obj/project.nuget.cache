@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Th/y5YlUFUgtxh5cLo2lxN/GCDziBpfyOtdCpR37yL43c11Oy7npUgHGM76G2sygVL7dmb68MqJpceM9oDaog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\facec.lab04\\Downloads\\programacao-iv-venda-iterativa-main\\UMFG.Venda.Aprensetacao\\UMFG.Venda.Aprensetacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\system.windows.interactivity.wpf\\2.0.20525\\system.windows.interactivity.wpf.2.0.20525.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Windows.Interactivity.WPF 2.0.20525' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net7.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Windows.Interactivity.WPF",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}
